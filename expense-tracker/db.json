@@ -1,0 +1,41 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "name": "Rahul",
+      "productPurchased": "Groceries",
+      "amount": 75
+    },
+    {
+      "id": 2,
+      "name": "Ramesh",
+      "productPurchased": "Laptop",
+      "amount": 1200
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "productPurchased": "Office Chair",
+      "amount": 250
+    },
+    {
+      "id": 4,
+      "name": "Ramesh",
+      "productPurchased": "Utilities",
+      "amount": 150
+    },
+    {
+      "id": 5,
+      "name": "Rahul",
+      "productPurchased": "Books",
+      "amount": 45
+    },
+    {
+      "id": "4744",
+      "description": "ads",
+      "amount": 2312,
+      "date": "2024-08-15",
+      "payer": "Person B"
+    }
+  ]
+}
